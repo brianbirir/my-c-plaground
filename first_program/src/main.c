@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-// This is the main function of the program
-// It is the entry point of the program
-// there should be only one main function in a c program
+/* 
+This is the main function of the program
+It is the entry point of the program
+There should be only one main function in a c program
+*/
 int main()
 {
     int myFavoriteNumber = 0;
