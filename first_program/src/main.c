@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// This is the main function of the program
+// It is the entry point of the program
 int main()
 {
     int myFavoriteNumber = 0;
